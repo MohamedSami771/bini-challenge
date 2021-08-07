@@ -1,0 +1,18 @@
+body {
+    background-color: #333745;
+}
+h2 {
+    font-size: 36px;
+	line-height: 40px;
+	margin-left: 13cm;
+	font-weight: normal;
+	color: white;
+	font-family: 'Hammersmith One', sans-serif;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.4);
+	position: relative;
+	color: #6Cf;
+}
+
+textarea {
+    height: 40;
+}
